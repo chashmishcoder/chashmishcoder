@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_hustle_master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_hustle_master" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/omkar-thorve-47595a111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/omkar-thorve-47595a111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar-thorve-47595a111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-thorve-47595a111" height="30" width="40" /></a>
 <a href="https://medium.com/@thorveomkar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thorveomkar4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omkarthorve_ot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarthorve_ot" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chashmishcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chashmishcoder" height="30" width="40" /></a>
