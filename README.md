@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://chashmishcoder.hashnode.dev/](https://chashmishcoder.hashnode.dev/)
+- 📝 I regularly write articles on [Python,Machine Learning, AI in Sports](https://chashmishcoder.hashnode.dev/)
 
 - 💬 Ask me about **Python, SQL, Power BI**
 
