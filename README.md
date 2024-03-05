@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pandas**
 
-- 📝 I regularly write articles on [https://medium.com/@thorveomkar4](https://medium.com/@thorveomkar4)
+- 📝 I regularly write articles on [https://chashmishcoder.hashnode.dev/](https://chashmishcoder.hashnode.dev/)
 
 - 💬 Ask me about **Python, SQL, Power BI**
 
