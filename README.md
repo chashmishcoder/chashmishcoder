@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_hustle_master" target="blank"><img src="https://img.shields.io/twitter/follow/_hustle_master?logo=twitter&style=for-the-badge" alt="_hustle_master" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [Data Science](https://chashmishcoder.hashnode.dev/)
 
