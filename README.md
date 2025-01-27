@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [Data Science](https://chashmishcoder.hashnode.dev/)
 
-- 💬 Ask me about **Python, SQL, Power BI**
+- 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **thorveomkar4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IvBqmdSrFdwnXMDvQuPbA_w3ckgv65lK/view?usp=sharing](https://drive.google.com/file/d/1IvBqmdSrFdwnXMDvQuPbA_w3ckgv65lK/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1VBJV00YoSjFusalM9p1AB8XnacouFMCg/view?usp=sharing)
 
 - ⚡ Fun fact **I used to design gears, now I shift through gigs of data**
 
